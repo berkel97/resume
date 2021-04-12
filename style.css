@@ -1,0 +1,36 @@
+body{
+    background-color: #d5d8dc;
+}
+
+table{
+    width: 700px;
+    height: 800px;
+    margin: auto;
+}
+
+.pro{
+    width: 200px;
+    background-color: #1c2833;
+    color: white;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+.pro img{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+    
+}
+
+.pro li{
+    list-style: none;
+    padding: 5px;
+}
+
+.exp{
+    width: 500px;
+    background-color: #fdfefe;
+    padding: 10px;
+}
+
